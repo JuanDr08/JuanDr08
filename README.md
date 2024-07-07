@@ -3,9 +3,9 @@
 
 - 🔭 Actualmente estoy trabajando en [Java - SpringBoot](https://github.com/JuanDr08/JavaC)
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript, NodeJs, Express, Java, SpringBoot, Angular, MongoDb, etc...**
+- 🌱 estoy aprendiendo **JavaScript, NodeJs, Express, Java, SpringBoot, Angular, MongoDb, etc...**
 
-- 💬 Puedo responder a preguntas de **Python, HTML5, CSS3, JS intermedio, MySQL**
+- 💬 Puedo responder a preguntas de **Python, HTML5, CSS3, JS intermedio, MySQL, etc...**
 
 - 📫 ¿Como contactarme? **juandavidrodriguez890@gmail.com**
 
