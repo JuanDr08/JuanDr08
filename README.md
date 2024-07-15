@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,astro,angular,react,bootstrap,js,ts,nodejs,npm,express,vite,mongodb,postgres,mysql,java,spring,hibernate,maven,kotlin,idea,vscode,pycharm,py,flask,php,linux,github,git,figma,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=css,html,astro,angular,react,bootstrap,js,ts,nodejs,npm,express,vite,mongodb,postgres,mysql,java,spring,hibernate,maven,kotlin,idea,vscode,pycharm,py,flask,php,linux,github,git,figma,discord,linkedin&perline=9" />
   </a>
 </p>
 
@@ -98,8 +98,6 @@
 <p align="center">
 <a href="https://www.instagram.com/juan.dr08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juandavidro" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/juandavidro?trk=profile-badge">Juan David Rodriguez</a></div>
               
 
 
