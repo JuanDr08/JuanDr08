@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,astro,angular,react,bootstrap,js,ts,nodejs,npm,express,vite,mongodb,postgres,mysql,java,spring,hibernate,maven,kotlin,idea,vscode,pycharm,py,flask,php,linux,github,git,figma,discord,linkedin&perline=9" />
+    <img src="https://skillicons.dev/icons?i=css,html,astro,angular,react,bootstrap,js,ts,nodejs,npm,express,vite,mongodb,postgres,mysql,java,spring,hibernate,maven,kotlin,idea,vscode,pycharm,py,flask,php,linux,github,git,figma,discord,linkedin&perline=8" />
   </a>
 </p>
 
