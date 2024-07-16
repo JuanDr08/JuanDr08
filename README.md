@@ -3,18 +3,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola! 👋, Soy Juan David</h1></summary>
-  </ul>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+Soy+Juan+David+Rodriguez;" />
+</h1>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
@@ -37,6 +29,18 @@
 - ⚡ Dato curioso **Me encanta estar en continuo aprendizaje**
 <!--Intro end-->
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias Que Conozco👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,astro,angular,react,bootstrap,js,ts,nodejs,npm,express,vite,mongodb,postgres,mysql,java,spring,hibernate,maven,kotlin,idea,vscode,pycharm,py,flask,php,linux,github,git,figma,discord,linkedin&perline=8" />
+  </a>
+</p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -72,18 +76,11 @@
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias Que Conozco👨🏻‍💻</h2></summary>
-  </ul>
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,astro,angular,react,bootstrap,js,ts,nodejs,npm,express,vite,mongodb,postgres,mysql,java,spring,hibernate,maven,kotlin,idea,vscode,pycharm,py,flask,php,linux,github,git,figma,discord,linkedin&perline=8" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
