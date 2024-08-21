@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,angular,bootstrap,js,ts,nodejs,express,vite,mongodb,postgres,mysql,py,flask,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=css,html,angular,bootstrap,tailwind,js,ts,nodejs,express,vite,mongodb,postgres,mysql,sqlite,py,flask,git,&perline=6" />
   </a>
 </p>
 
@@ -56,13 +56,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Entornos de desarrollo</h2></summary>
+    <summary><h2 style="display: inline-block">Herramientas de desarrollo</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm&perline=3" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,postman&perline=4" />
   </a>
 </p>
 
