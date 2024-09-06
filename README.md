@@ -20,9 +20,9 @@
 <!--Intro start-->
 - 🏫 **Desarrollador Web**
 
-- 🔭 Actualmente estoy trabajando en [Java - SpringBoot](https://github.com/JuanDr08/JavaC)
+- 🔭 Actualmente estoy trabajando en **TypeScript - Angular**
 
-- 🌱 Actualmente aprendiendo **Java, SpringBoot, MongoDB y Angular**
+- 🌱 Actualmente aprendiendo **Java, SpringBoot, Express y Angular**
 
 - 📫 No dudes en contactarme **juandavidrodriguez890@gmail.com**
 
@@ -38,7 +38,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,angular,bootstrap,tailwind,js,ts,nodejs,express,vite,mongodb,postgres,mysql,sqlite,py,flask,git,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,express,react,angular,bootstrap,tailwind,vite,mongodb,postgres,mysql,sqlite,py,flask,git&perline=6" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,react,java,spring&perline=4" />
+    <img src="https://skillicons.dev/icons?i=astro,java,spring&perline=4" />
   </a>
 </p>
 
